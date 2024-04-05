@@ -17,7 +17,9 @@ body{
     gap:20px;
     flex-wrap: wrap;
 }
-
+.ne{
+    
+}
 .card-row{
 
     display: flex;
